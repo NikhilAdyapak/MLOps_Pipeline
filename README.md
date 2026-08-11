@@ -113,4 +113,8 @@ python -m pytest --import-mode=append tests/
 
 # Yolov3 folder:
 	My implementation using yolov3
-	Download yolov3.weights from https://pjreddie.com/media/files/yolov3.weights 
+	Download yolov3.weights from https://pjreddie.com/media/files/yolov3.weights
+
+---
+
+_Part of [Nikhil Adyapak](https://nikhiladyapak.github.io/)'s portfolio · [LinkedIn](https://www.linkedin.com/in/nikhil-adyapak) · [GitHub](https://github.com/NikhilAdyapak)_
