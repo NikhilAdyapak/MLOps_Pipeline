@@ -26,7 +26,7 @@ python3 data_ingestion.py --input_dir ~/datasets/klemenko-kitti-dataset/ --pipel
 
 To view logs
 ```bash
-watch -n 1 "wget -qO-  http://bani-c-0069l.ban.apac.bosch.com:8081/open/logs/stdout_main_git.log | tail"
+watch -n 1 "wget -qO-  http://<your-log-server>:8081/open/logs/stdout_main_git.log | tail"
 ```
 
 
